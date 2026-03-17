@@ -44,8 +44,10 @@ plt.show()
 
 ```
 ## Output
-exp 9.png 
-<br>exp 9 output.png 
+<img width="1425" height="532" alt="exp 9" src="https://github.com/user-attachments/assets/75faab50-de7d-4d15-8b40-2ab21ad26e04" />
+<img width="1367" height="627" alt="exp 9 output" src="https://github.com/user-attachments/assets/04f085ce-a1d7-42e4-8b29-c18356e3d662" />
+
+
 
 
 ## Result
